@@ -96,7 +96,8 @@ python webUI.py
 - Choose advanced options (e.g., control strength, resolution, denoising strength).
 - Apply super-resolution or night-light enhancement on keyframes.
 
-![webui](https://github.com/shivesh235/Rerender_v2v/blob/main/webui.jpg)
+![webui](https://github.com/shivesh235/Rerender_v2v/blob/main/webui1.png)
+![webui](https://github.com/shivesh235/Rerender_v2v/blob/main/webui2.png)
 ---
 
 ## **File Structure**
