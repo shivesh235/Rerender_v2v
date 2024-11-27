@@ -1,7 +1,3 @@
-Here's a detailed **README** file for your project, combining the inference code, Gradio-based UI, and additional functionalities such as keyframe super-resolution, night-light enhancement, and audio integration:
-
----
-
 # **Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation**
 
 ## **Overview**
@@ -100,6 +96,7 @@ python webUI.py
 - Choose advanced options (e.g., control strength, resolution, denoising strength).
 - Apply super-resolution or night-light enhancement on keyframes.
 
+![webui](https://github.com/shivesh235/Rerender_v2v/blob/main/webui.jpg)
 ---
 
 ## **File Structure**
